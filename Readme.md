@@ -57,3 +57,13 @@ public class SpriterTest extends BasicGame {
     }
 }
 ```
+
+Dependency management with maven
+================================
+Add the following repository url:
+
+```
+https://raw.github.com/Trixt0r/slick2d-spriter/mvn/
+```
+GroupId is `com.brashmonkey.spriter`
+ArtifactId is `slick2d-spriter`
